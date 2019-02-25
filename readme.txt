@@ -4,3 +4,4 @@ chg 001 again
 chg 002
 Git tracks changes of files.
 new branch named dev!
+change by feature1
